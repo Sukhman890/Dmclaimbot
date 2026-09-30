@@ -1,0 +1,4 @@
+# One real gift-card code per line. Copy to codes.txt.
+# codes.txt is in .gitignore. Only commit it to a PRIVATE repo, and remove it from .gitignore first.
+EXAMPLE-CODE-0001
+EXAMPLE-CODE-0002
